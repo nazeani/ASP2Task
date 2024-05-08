@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPTask2.props" />
+</Project>

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\source\\repos\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\models\\organicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\models\\organicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Migrations\\20240508001419_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task2\\Migrations\\20240508001419_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|c:\\users\\nazani\\source\\repos\\task2\\task2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D62521-996D-4E16-A738-EB5C782120AD}|Task2\\ASPTask2.csproj|solutionrelative:task2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240508001419_a.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Migrations\\20240508001419_a.cs",
+              "RelativeDocumentMoniker": "task2\\Migrations\\20240508001419_a.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Migrations\\20240508001419_a.cs",
+              "RelativeToolTip": "task2\\Migrations\\20240508001419_a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:14:19.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "task2\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "task2\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:51:03.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "task2\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "task2\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T22:17:15.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "task2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "task2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:50:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganicProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Models\\OrganicProduct.cs",
+              "RelativeDocumentMoniker": "task2\\Models\\OrganicProduct.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Models\\OrganicProduct.cs",
+              "RelativeToolTip": "task2\\Models\\OrganicProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:35:11.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "task2\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "task2\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:16:57.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "task2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "task2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:49:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:33:14.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "task2\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Models\\Farmer.cs",
+              "RelativeToolTip": "task2\\Models\\Farmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:07:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "task2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "task2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T22:01:13.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "task2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "task2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:25:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task2\\Views\\shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "task2\\Views\\shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:24:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "task2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "task2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:24:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "task2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\task2\\task2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "task2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:23:55.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
